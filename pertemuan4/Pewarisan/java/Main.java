@@ -4,8 +4,10 @@ public class Main {
         // TODO Langkah 4: tambahkan Dosen dan PegawaiHarian ke daftar ini
         //                 setelah Anda membuat kelasnya.
         Pegawai[] daftar = {
-            new PegawaiTetap("198701012010", "Ani Lestari",  6_000_000, 15),
-            new PegawaiKontrak("K-2024-007",  "Budi Santoso", 5_000_000, 12)
+            new PegawaiTetap("198701012010", "Ani Lestari", 6_000_000, 15),
+            new PegawaiKontrak("198701012011", "Budi Santoso", 5_000_000, 12),
+            new PegawaiHarian("198701012012", "Aigo Santoso", 7_000_000,14),
+            new Dosen("198701012012", "Aigo Santoso", 7_000_000,14)
         };
 
         System.out.println("=== Daftar Gaji ===");
