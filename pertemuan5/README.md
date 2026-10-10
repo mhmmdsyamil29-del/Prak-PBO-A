@@ -1,18 +1,15 @@
-## Getting Started
+# **LAPORAN PRAKTIKUM PBO A - PERTEMUAN 5**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- **Nama :** Muhammad Syamil
+- **NPM :** 4525210130
+- **Mata Kuliah :** Praktikum Pemrograman Berorientasi Objek
 
-## Folder Structure
+## Hasil run java
 
-The workspace contains two folders by default, where:
+## ![Running Berhasil](img/hasiljava.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Hasil run Php
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## ![Running Berhasil](img/hasilphp.png)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
